@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\bin\Debug\ColorCar.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\bin\Debug\ColorCar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\bin\Debug\ColorCar.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ColorCar\ColorCar\obj\Debug\ColorCar.pdb
